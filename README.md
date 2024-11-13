@@ -1,6 +1,6 @@
 # Rollover Remover Plugin
 
-The Rollover Remover Plugin for MetaTrader 5 addresses the issue of temporary volatility spikes during the daily forex rollover period, which can increase spreads and result in stop losses being prematurely triggered. This plugin helps prevent unnecessary stop-out events by temporarily disabling stop losses during the rollover period.
+The Rollover Remover Plugin for MetaTrader 5 addresses the issue of temporary volatility spikes during the daily forex rollover period, which can increase spreads and result in premature triggering of stop losses. This plugin helps prevent unnecessary stop-out events by temporarily disabling stop losses during the rollover period.
 
 Used by professional traders, this plugin ensures that your trades are not adversely affected by volatility during daily rollover events.
 
