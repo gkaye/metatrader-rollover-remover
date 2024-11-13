@@ -20,7 +20,7 @@ The script uses the server's time to determine the rollover window. To ensure ac
 1. Download the plugin.
 2. Place the script in your MetaTrader 5 `Expert Advisors` folder.
 3. Compile and run the script in your MetaTrader 5 platform.
-4. Adjust the configuration parameters (mentioned in the configuration section) as needed.
+4. Adjust the configuration parameters (mentioned in the above configuration section) as needed.
 
 ## Disclaimer
 
